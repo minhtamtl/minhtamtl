@@ -36,8 +36,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
-![MacOs](https://img.shields.io/badge/MacOS-MacOS-ffffff)
+![MacOs](https://img.shields.io/badge/-MacOs-%23282C34?logo=apple&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/minhtamtl)
+⭐️ From [Minhtamtl](https://github.com/minhtamtl)
