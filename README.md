@@ -1,6 +1,6 @@
 ## Hi I'm Minhtamtl :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![Minhtamtl](https://github.com/minhtamtl/minhtamtl/blob/main/gitcover.png "Minhtamtl")
 
 :computer: _Software Engenieering Student at [EIU](https://github.com/EIU)_ :desert_island:Living in Vietnam :vietnam:
 
