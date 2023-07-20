@@ -2,7 +2,7 @@
 
 ![Minhtamtl](https://github.com/minhtamtl/minhtamtl/blob/main/gitcover.png "Minhtamtl")
 
-:computer: _Software Engenieering Student at [EIU](https://github.com/EIU)_ :desert_island:Living in Vietnam :vietnam:
+:computer: _Software Engineering Student at [EIU](https://github.com/EIU)_ :desert_island:Living in Vietnam :vietnam:
 
 ### My Tech Stack
 
